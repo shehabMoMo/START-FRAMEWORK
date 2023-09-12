@@ -1,0 +1,13 @@
+.footer{
+    background-color: #2C3E50;
+}
+.footer ul li {
+    width: 38px;
+    height: 38px;
+}
+.footer ul li a{
+    color: #ffffff;
+}
+.copy-right{
+    background-color: #1A252F;
+}

@@ -1,0 +1,28 @@
+.page-color{
+    color: #2C3E50 !important;
+}
+.bg-mine{
+    background-color: #2C3E50 !important;
+}
+.break-w div{
+    width: 15%;
+    height: 4px;
+    top: 50%;
+  }
+  .break-w-1{
+    left: 210px;
+  }
+  .break-w-2{
+    right: 210px;
+  }
+  .content:hover .layer{
+    opacity: 1;
+  }
+  .layer{
+    background-color: #1abc9ce3;
+    opacity: 0;
+    transition: all 0.5s;
+  }
+  .layer i{
+    color: #fff;
+  }
